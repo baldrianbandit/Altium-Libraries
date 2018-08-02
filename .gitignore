@@ -1,0 +1,7 @@
+*.zip
+*.htm
+*.pdf
+*.LOG
+*.lnk
+**/Logs
+**/History
