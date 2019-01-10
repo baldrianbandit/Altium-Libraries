@@ -17,3 +17,6 @@
  [Manufacturer].pcblib
  
  Specific component footprints that may be used by generic schematic symbols or the manufacturers schematics library
+
+
+Released under MIT license
